@@ -12,5 +12,5 @@ This is possible with a model of page in order 1-4 and 3-2, when you are printin
 ## Use
 - Install dependences or requirements
 - Put images on /imports/manga
-- Execute magic.py
+- Run magic.py
 
